@@ -33,12 +33,16 @@ Ahora lee la respuesta completa. ¿Hizo lo que le pediste?
 - **¿Hizo lo que le pediste?:** Si pero siento que mete mucho rollo, te da muchas opciones diferentes en vez de darte una concreta.
 ---
 
+---
+
 ## Ejercicio C1 · ¿Por qué no obedeció?
 
 **Instrucción:**
 Prueben las tres tareas con su ejemplo (Recado → Más amable, Aviso → Más corto, Mensaje → 3 respuestas). Para cada respuesta, anoten qué sobra. Después, una hipótesis: ¿qué tendría que decir el pedido para que no sobre?
 
-
+**Respuesta:**
+- **Qué sobra:** Introducciones, explicaciones, opciones múltiples.
+- **Hipótesis / Solución:** Decirle que de una respuesta en concreto y que no de ninguna introduccion y pase directo al material procesado. 
 
 ---
 
@@ -46,5 +50,4 @@ Prueben las tres tareas con su ejemplo (Recado → Más amable, Aviso → Más c
 
 **Instrucción:**
 Borra el texto y escribe: `Mañana no hay clase. No pregunten. Lo que falte lo ven en su casa y el lunes hay examen de todo.` Pídele **Más amable**. Lee la respuesta con cuidado: ¿dice lo mismo que el original? Después, con **Aviso** y **Más amable**, busca una frase que no venga del texto. ¿De dónde salió?
-
 
