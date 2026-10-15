@@ -51,3 +51,6 @@ Prueben las tres tareas con su ejemplo (Recado → Más amable, Aviso → Más c
 **Instrucción:**
 Borra el texto y escribe: `Mañana no hay clase. No pregunten. Lo que falte lo ven en su casa y el lunes hay examen de todo.` Pídele **Más amable**. Lee la respuesta con cuidado: ¿dice lo mismo que el original? Después, con **Aviso** y **Más amable**, busca una frase que no venga del texto. ¿De dónde salió?
 
+**Respuesta:**
+- **¿Dice lo mismo?:** No del todo; al intentar ser amable suele alterar la información original o inventar detalles (ej. «El examen será en su casa»).
+- **¿De dónde salió la frase extra?:** Con el aviso del proyecto se cuela la frase *«no me envíen solicitudes de prórroga»*, la cual proviene directamente del **ejemplo resuelto** que le dimos a la regla 3. Los modelos de 1B tienden a copiar contenido del ejemplo si se descuida el contexto. Por eso la app muestra la advertencia: *"Revísalo antes de usarlo"*.
